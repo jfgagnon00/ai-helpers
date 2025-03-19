@@ -1,0 +1,11 @@
+Modele;puissance;Longueur;Hauteur;poids;CO2;Origine;Carburant;4X4
+Alfasud TI;75;421;149;1217;143;Europe;Diesel;non
+Audi 100;138;426;146;1381;142;France;Diesel;non
+Simca 1300;204;491;145;1723;223;France;Diesel;non
+Citroen GS Club;150;486;158;1735;188;France;Diesel;non
+Fiat 132;61;367;147;932;141;France;Essence;non
+Lancia Beta;340;502;148;1835;291;Autre;Essence;non
+Peugeot 504;102;421;143;1205;168;Europe;Essence;non
+Renault 16 TL;202;455;167;1595;237;Autre;Diesel;oui
+Renault 30;223;429;154;1595;235;Autre;Essence;non
+Toyota Corolla;125;450;173;1757;197;Autre;Diesel;oui
