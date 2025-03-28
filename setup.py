@@ -21,6 +21,7 @@ def _dependencies():
         "sympy",
         "tensorflow",
         "torch",
+        "tqdm",
     ]
 
 setup(name="ai-helpers",
